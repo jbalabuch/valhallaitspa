@@ -323,7 +323,7 @@ html {
   display: -ms-flexbox;
   display: flex;
   margin-top: 2vh;
-  background-image: url(/assets/reception.jpg);
+  background-image: url(assets/reception.jpg);
   background-size: 100%;
   border-radius: 5px;
   width: 100%;
@@ -477,7 +477,7 @@ html {
   display: flex;
   margin-top: 1.5vh;
   margin-bottom: 2.2vh;
-  background-image: url(/assets/room_foto.jpg);
+  background-image: url(assets/room_foto.jpg);
   background-size: 100%;
   border-radius: 5px;
   width: 100%;
@@ -506,7 +506,7 @@ html {
   display: flex;
   margin-top: 1.5vh;
   margin-bottom: 2.2vh;
-  background-image: url(/assets/intervention_foto.jpg);
+  background-image: url(assets/intervention_foto.jpg);
   background-size: 100%;
   border-radius: 5px;
   width: 100%;
